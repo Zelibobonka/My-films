@@ -108,7 +108,7 @@ function Search({ query, setQuery }) {
 function Logo() {
   return (
     <div className="logo">
-      <img src="My-films/logo.png" alt="логотип" width="35" />
+      <img src="logo.png" alt="логотип" width="35" />
       <h1>My films</h1>
     </div>
   );
